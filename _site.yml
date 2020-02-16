@@ -1,0 +1,10 @@
+name: "Old-Road-Journal-Club"
+output_dir: "."
+navbar:
+  title: "Old Road Journal Club"
+  left:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: cosmo
