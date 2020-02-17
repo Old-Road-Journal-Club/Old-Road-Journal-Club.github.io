@@ -1,6 +1,8 @@
 ---
 title: "Old Road Journal Club"
-output: html_document
+output: 
+  html_document:
+    css: styles.css
 ---
 
 Welcome to the website of the Old Road Journal Club. You will be able to find every information related to the ORJC meetings.
@@ -15,14 +17,14 @@ We have an active mailing list to which one can subscribe by sensing an empty em
 
 ## Upcoming meetings
 
-
 <!-- this is the embed code provided by Google -->
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSo1RZXOMEKrjWhNPM_olfk9_rO4xmRtVn2UcBO0vlQJMraPmQr7fAdBPxf6lf56S0Q-CJmwKQ90Ey0/pubhtml?gid=1095847980&single=true" frameborder="0" width="960" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSo1RZXOMEKrjWhNPM_olfk9_rO4xmRtVn2UcBO0vlQJMraPmQr7fAdBPxf6lf56S0Q-CJmwKQ90Ey0/pubhtml?gid=1095847980&single=true" frameborder="0" width="910" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <!-- Google embed ends -->
 
 ## Past meetings
 
-We will update this section with materials in due course.
+* 14/02/2020 - Journal Club: [*Genome-wide polygenic scores for common diseases identify individuals with risk equivalent to monogenic mutations*](https://www.nature.com/articles/s41588-018-0183-z) by **Lino Fonseca Ferreira**; [[slides]](https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/slides/200214_LinoFerreira.pdf)  
+* 31/01/2020 - Seminar: *Non-linear latent variable models for genomics* by [**Kaspar Martens**](https://kasparmartens.rbind.io/), [OxCSML](http://csml.stats.ox.ac.uk/), Department of Statistics, University of Oxford
 
 ## Support
 
