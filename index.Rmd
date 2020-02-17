@@ -1,8 +1,6 @@
 ---
 title: "Old Road Journal Club"
-output: 
-  html_document:
-    css: styles.css
+output: html_document
 ---
 
 Welcome to the website of the Old Road Journal Club. You will be able to find every information related to the ORJC meetings.
@@ -28,4 +26,4 @@ We have an active mailing list to which one can subscribe by sensing an empty em
 
 ## Support
 
-Refreshments and drinks are supported by the [Wellcome Centre for Human Genetics](https://www.well.ox.ac.uk/).
+Refreshments and drinks are supported by the [Wellcome Trust](https://wellcome.ac.uk/), [Wellcome Centre for Human Genetics](https://www.well.ox.ac.uk/) and the [Big Data Institute](https://www.bdi.ox.ac.uk/). We are very welcomed to our sponsors for bringing the community together over a slice of pizza and great science!
