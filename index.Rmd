@@ -13,7 +13,13 @@ The Journal Club is presently run by Andrew and [Kasia](https://kasia.codes/).
 
 We have an active mailing list to which one can subscribe by sensing an empty email with _SUBSCRIBE_ in subject line to dphil-journal-club@maillist.ox.ac.uk. 
 
+## News
+
+Thanks to generosity of the Wellcome Trust, we will have pizza 🍕 at the lunchtime meetings and thanks to the BDI snacks 🍪 at  the afternoon meetings! 
+
 ## Upcoming meetings
+
+In order not to waste food we are asking you to fill this [form](https://forms.gle/u4HyBJBH9EGoaCAV6). It takes only 30 sec, we promise!
 
 <!-- this is the embed code provided by Google -->
   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSo1RZXOMEKrjWhNPM_olfk9_rO4xmRtVn2UcBO0vlQJMraPmQr7fAdBPxf6lf56S0Q-CJmwKQ90Ey0/pubhtml?gid=1095847980&single=true" frameborder="0" width="910" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
