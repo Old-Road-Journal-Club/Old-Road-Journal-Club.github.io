@@ -7,7 +7,9 @@ Welcome to the website of the Old Road Journal Club. You will be able to find ev
 
 ## About
 
-The Old Road Campus Journal Club is an **informal get together session for PhD students** and any interested post docs to discuss the latest research findings in the field of biomedical research, and share work that we’ve done! The journal club has a focus on **computational biology**, but we also appreciate the diversity of the field and welcome anything related to genetics and genomics. Join us every other Friday at the Wellcome Centre for Human Genetics or Big Data Institute for **cool science** and **pizza & drinks**!
+The Old Road Campus Journal Club (ORJC) is an **informal get together session for PhD students** to discuss the latest research findings in the field of biomedical research, and share work that we’ve done! The journal club has a focus on **computational biology**, but we also appreciate the diversity of the field and welcome anything related to genetics and genomics. Join us every other Friday at the Wellcome Centre for Human Genetics or Big Data Institute for **cool science** and **pizza & drinks**! 
+
+ORJC is a great place to meet your fellow DPhil students, talk and exchange expertise. Come to one of the meetings and see for yourself! :)
 
 The Journal Club is presently run by Andrew and [Kasia](https://kasia.codes/).
 
