@@ -7,7 +7,7 @@ Welcome to the website of the Old Road Journal Club. You will be able to find ev
 
 ## About
 
-The Old Road Campus Journal Club (ORJC) is an **informal get together session for PhD students** to discuss the latest research findings in the field of biomedical research, and share work that we’ve done! The journal club has a focus on **computational biology**, but we also appreciate the diversity of the field and welcome anything related to genetics and genomics. Join us every other Friday at the Wellcome Centre for Human Genetics or Big Data Institute for **cool science** and **pizza & drinks**! 
+The Old Road Campus Journal Club (ORJC) is an **informal get together session for PhD students** to discuss the latest research findings in the field of biomedical research, and share work that we’ve done! The journal club has a focus on **computational biology**, but we also appreciate the diversity of the field and welcome anything related to genetics and genomics. Join us every other Friday at the Wellcome Centre for Human Genetics or Big Data Institute for **cool science** and **pizza/snacks & drinks**! 
 
 ORJC is a great place to meet your fellow DPhil students, talk and exchange expertise. Come to one of the meetings and see for yourself! :)
 
@@ -21,7 +21,7 @@ Thanks to generosity of the Wellcome Trust, we will have pizza 🍕 at the lunch
 
 ## Upcoming meetings
 
-In order not to waste food we are asking you to fill this [form](https://forms.gle/u4HyBJBH9EGoaCAV6). It takes only 30 sec, we promise!
+In order not to waste food we are asking you to fill this [form](https://forms.gle/cXYyJZCCgVwnwY4G9). It takes only 30 sec, we promise!
 
 <!-- this is the embed code provided by Google -->
   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSo1RZXOMEKrjWhNPM_olfk9_rO4xmRtVn2UcBO0vlQJMraPmQr7fAdBPxf6lf56S0Q-CJmwKQ90Ey0/pubhtml?gid=1095847980&single=true" frameborder="0" width="910" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -29,8 +29,9 @@ In order not to waste food we are asking you to fill this [form](https://forms.g
 
 ## Past meetings
 
-* 14/02/2020 - Journal Club: [*Genome-wide polygenic scores for common diseases identify individuals with risk equivalent to monogenic mutations*](https://www.nature.com/articles/s41588-018-0183-z) by **Lino Fonseca Ferreira**; [[slides]](https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200214_LinoFerreira.pdf)  
-* 31/01/2020 - Seminar: *Non-linear latent variable models for genomics* by [**Kaspar Martens**](https://kasparmartens.rbind.io/), [OxCSML](http://csml.stats.ox.ac.uk/), Department of Statistics, University of Oxford
+* 28/02/2020 - Seminar: [*Pan-Cancer Analysis of Whole Genomes*](https://www.nature.com/articles/s41586-020-1969-6) by **Dr Justin Whalley**, Wellcome Centre for Human Genetics; [[slides]](https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200228_JustinWhalley.pdf) 
+* 14/02/2020 - Journal Club: [*Genome-wide polygenic scores for common diseases identify individuals with risk equivalent to monogenic mutations*](https://www.nature.com/articles/s41588-018-0183-z) by **Lino Fonseca Ferreira**, Wellcome Centre for Human Genetics; [[slides]](https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200214_LinoFerreira.pdf)  
+* 31/01/2020 - Seminar: *Non-linear latent variable models for genomics* by [**Kaspar Martens**](https://kasparmartens.rbind.io/), [OxCSML](http://csml.stats.ox.ac.uk/), Department of Statistics
 
 ## Support
 
