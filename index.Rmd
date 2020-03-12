@@ -13,7 +13,7 @@ ORJC is a great place to meet your fellow DPhil students, talk and exchange expe
 
 The Journal Club is presently run by Andrew and [Kasia](https://kasia.codes/).
 
-We have an active mailing list to which one can subscribe by sensing an empty email with _SUBSCRIBE_ in subject line to dphil-journal-club@maillist.ox.ac.uk. 
+We have an active mailing list to which one can subscribe by sending an email with _subscribe dphil-journal-club_ in subject line to [sympa@maillist.ox.ac.uk](mailto:sympa@maillist.ox.ac.uk?subject=subscribe%20dphil-journal-club).
 
 ## News
 
