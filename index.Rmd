@@ -21,13 +21,11 @@ Thanks to generosity of the Wellcome Trust, we will have pizza 🍕 at the lunch
 
 ## COVID-19
 
-<img src="https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/images/corona_virus.png" alt="Corona virus visualisation">
+![](./images/corona_virus.png)
 
-Given the concerns raised over the ongoing pandemic of COVID-19 we have decided to move Journal Club meetings online for time being. To give us enough time to test the platforms we have moved the meeting from TODAY (Friday 13/03) to next week (Friday 20/03). We will update this website with intrsuctions on how to join the meetings soon.
+Given the [**concerns raised over the ongoing pandemic of COVID-19**](https://www.nhs.uk/conditions/coronavirus-covid-19/) we have decided to **move Journal Club meetings online** for time being. To give us enough time to test the platforms we have moved the meeting from TODAY (Friday 13/03) to next week (Friday 20/03). We will update this website with intrsuctions on how to join the meetings soon.
 
 ## Upcoming meetings
-
-In order not to waste food we are asking you to fill this [form](https://forms.gle/cXYyJZCCgVwnwY4G9). It takes only 30 sec, we promise!
 
 <!-- this is the embed code provided by Google -->
   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSo1RZXOMEKrjWhNPM_olfk9_rO4xmRtVn2UcBO0vlQJMraPmQr7fAdBPxf6lf56S0Q-CJmwKQ90Ey0/pubhtml?gid=1095847980&single=true" frameborder="0" width="910" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
