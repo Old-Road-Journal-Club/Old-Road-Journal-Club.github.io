@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -249,6 +252,75 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
 
 </head>
 
@@ -256,6 +328,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -303,11 +385,15 @@ $(document).ready(function () {
 <div id="news" class="section level2">
 <h2>News</h2>
 <p>Thanks to generosity of the Wellcome Trust, we will have pizza 🍕 at the lunchtime meetings and thanks to the BDI snacks 🍪 at the afternoon meetings!</p>
-</div>
-<div id="covid-19" class="section level2">
-<h2>COVID-19</h2>
+<div id="covid-19" class="section level3">
+<h3>COVID-19</h3>
 <p><img src="images/corona_virus.png" /></p>
-<p>Given the <a href="https://www.nhs.uk/conditions/coronavirus-covid-19/"><strong>concerns raised over the ongoing pandemic of COVID-19</strong></a> we have decided to <strong>move Journal Club meetings online</strong> for time being. To give us enough time to test the platforms we have moved the meeting from TODAY (Friday 13/03) to next week (Friday 20/03). We will update this website with intrsuctions on how to join the meetings soon.</p>
+<p>To comply with <a href="https://www.nhs.uk/conditions/coronavirus-covid-19/"><strong>life saving social distancing</strong></a> we have decided to <strong>move Journal Club meetings online</strong>.</p>
+<p>We are meeting on Zoom. Details of the next meeting:</p>
+<p>Time: <strong>Mar 27, 2020 12:30 PM London</strong><br />
+Link: <a href="https://zoom.us/j/7574712488?pwd=a1F5SURJQlFZV2JmQ0ZWUFYweWJKQT09"><strong>Zoom link</strong></a><br />
+<strong>Meeting ID</strong>: 757 471 2488 &amp; <strong>Password</strong>: jc</p>
+</div>
 </div>
 <div id="upcoming-meetings" class="section level2">
 <h2>Upcoming meetings</h2>
@@ -317,10 +403,12 @@ $(document).ready(function () {
 <div id="past-meetings" class="section level2">
 <h2>Past meetings</h2>
 <ul>
+<li>20/03/2020 - Tutorial: <em>LanceOtron: a deep learning peak caller for ATAC-seq, ChIP-seq, and DNase-seq</em> by <strong>Lance Hentges</strong>, MRC Weatherall Institute of Molecular Medicine; <a href="https://lanceotron.molbiol.ox.ac.uk/">[LaceOtron]</a><br />
+</li>
 <li>28/02/2020 - Seminar: <a href="https://www.nature.com/articles/s41586-020-1969-6"><em>Pan-Cancer Analysis of Whole Genomes</em></a> by <strong>Dr Justin Whalley</strong>, Wellcome Centre for Human Genetics; <a href="https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200228_JustinWhalley.pdf">[slides]</a></li>
 <li>14/02/2020 - Journal Club: <a href="https://www.nature.com/articles/s41588-018-0183-z"><em>Genome-wide polygenic scores for common diseases identify individuals with risk equivalent to monogenic mutations</em></a> by <strong>Lino Fonseca Ferreira</strong>, Wellcome Centre for Human Genetics; <a href="https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200214_LinoFerreira.pdf">[slides]</a><br />
 </li>
-<li>31/01/2020 - Seminar: <em>Non-linear latent variable models for genomics</em> by <a href="https://kasparmartens.rbind.io/"><strong>Kaspar Martens</strong></a>, <a href="http://csml.stats.ox.ac.uk/">OxCSML</a>, Department of Statistics</li>
+<li>31/01/2020 - Seminar: <em>Non-linear latent variable models for genomics</em> by <a href="https://kasparmartens.rbind.io/"><strong>Kaspar Martens</strong></a>, <a href="http://csml.stats.ox.ac.uk/">OxCSML</a>, Department of Statistics; <a href="https://arxiv.org/abs/2003.03462">[paper]</a>, <a href="https://github.com/kasparmartens/BasisVAE">[github]</a></li>
 </ul>
 </div>
 <div id="support" class="section level2">
@@ -330,6 +418,8 @@ $(document).ready(function () {
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -362,6 +452,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = false;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

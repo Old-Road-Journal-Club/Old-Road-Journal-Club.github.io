@@ -19,11 +19,17 @@ We have an active mailing list to which one can subscribe by sending an email wi
 
 Thanks to generosity of the Wellcome Trust, we will have pizza 🍕 at the lunchtime meetings and thanks to the BDI snacks 🍪 at  the afternoon meetings! 
 
-## COVID-19
+### COVID-19
 
 ![](./images/corona_virus.png)
 
-Given the [**concerns raised over the ongoing pandemic of COVID-19**](https://www.nhs.uk/conditions/coronavirus-covid-19/) we have decided to **move Journal Club meetings online** for time being. To give us enough time to test the platforms we have moved the meeting from TODAY (Friday 13/03) to next week (Friday 20/03). We will update this website with intrsuctions on how to join the meetings soon.
+To comply with [**life saving social distancing**](https://www.nhs.uk/conditions/coronavirus-covid-19/) we have decided to **move Journal Club meetings online**. 
+
+We are meeting on Zoom. Details of the next meeting:
+
+Time: **Mar 27, 2020 12:30 PM London**  
+Link: [**Zoom link**](https://zoom.us/j/7574712488?pwd=a1F5SURJQlFZV2JmQ0ZWUFYweWJKQT09)  
+**Meeting ID**: 757 471 2488 & **Password**: jc  
 
 ## Upcoming meetings
 
@@ -32,10 +38,11 @@ Given the [**concerns raised over the ongoing pandemic of COVID-19**](https://ww
 <!-- Google embed ends -->
 
 ## Past meetings
-
+* 20/03/2020 - Tutorial: *LanceOtron: a deep learning peak caller for ATAC-seq, ChIP-seq, and DNase-seq* by **Lance Hentges**, MRC Weatherall Institute of Molecular Medicine; [[LaceOtron]](https://lanceotron.molbiol.ox.ac.uk/)  
 * 28/02/2020 - Seminar: [*Pan-Cancer Analysis of Whole Genomes*](https://www.nature.com/articles/s41586-020-1969-6) by **Dr Justin Whalley**, Wellcome Centre for Human Genetics; [[slides]](https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200228_JustinWhalley.pdf) 
 * 14/02/2020 - Journal Club: [*Genome-wide polygenic scores for common diseases identify individuals with risk equivalent to monogenic mutations*](https://www.nature.com/articles/s41588-018-0183-z) by **Lino Fonseca Ferreira**, Wellcome Centre for Human Genetics; [[slides]](https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200214_LinoFerreira.pdf)  
-* 31/01/2020 - Seminar: *Non-linear latent variable models for genomics* by [**Kaspar Martens**](https://kasparmartens.rbind.io/), [OxCSML](http://csml.stats.ox.ac.uk/), Department of Statistics
+* 31/01/2020 - Seminar: *Non-linear latent variable models for genomics* by [**Kaspar Martens**](https://kasparmartens.rbind.io/), [OxCSML](http://csml.stats.ox.ac.uk/), Department of Statistics; [[paper]](https://arxiv.org/abs/2003.03462), [[github]](https://github.com/kasparmartens/BasisVAE)  
+
 
 ## Support
 
