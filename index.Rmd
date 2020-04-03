@@ -27,7 +27,7 @@ To comply with [**life saving social distancing**](https://www.nhs.uk/conditions
 
 We are meeting on Zoom. Details of the next meeting:
 
-Time: **Mar 27, 2020 12:30 PM London**  
+Time: **Apr 17, 2020 12:30 PM London**  
 Link: [**Zoom link**](https://zoom.us/j/7574712488?pwd=a1F5SURJQlFZV2JmQ0ZWUFYweWJKQT09)  
 **Meeting ID**: 757 471 2488 & **Password**: jc  
 
@@ -38,6 +38,11 @@ Link: [**Zoom link**](https://zoom.us/j/7574712488?pwd=a1F5SURJQlFZV2JmQ0ZWUFYwe
 <!-- Google embed ends -->
 
 ## Past meetings
+* 03/04/2020 - Special COVID-19 Journal Club: 
+  * *Compartmental models in epidemiology or The emergence of a global pandemic* by **Jennifer Herrmann**, Wellcome Centre for Human Genetics, [[slides]](https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200402_JHerrmann.pdf)
+  * [*The proximal orgin of SARS-CoV-2*](https://www.nature.com/articles/s41591-020-0820-9) by **Justin Whalley**, Wellcome Centre for Human Genetics, [[slides]](https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200402_JWhalley.pdf)
+  * [*Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts*](https://researchonline.lshtm.ac.uk/id/eprint/4656367/1/PIIS2214109X20300747.pdf) by **Kasia Kedzierska**, Wellcome Centre for Human Genetics; [[slides]](https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200402_KKedzierska.pdf)
+* 27/03/2020 - Journal Club: [*Ancient genomes from Iceland reveal the making of a human population*](https://science.sciencemag.org/content/360/6392/1028) by **Arni Gunnarsson**, Wellcome Centre for Human Genetics;
 * 20/03/2020 - Tutorial: *LanceOtron: a deep learning peak caller for ATAC-seq, ChIP-seq, and DNase-seq* by **Lance Hentges**, MRC Weatherall Institute of Molecular Medicine; [[LaceOtron]](https://lanceotron.molbiol.ox.ac.uk/)  
 * 28/02/2020 - Seminar: [*Pan-Cancer Analysis of Whole Genomes*](https://www.nature.com/articles/s41586-020-1969-6) by **Dr Justin Whalley**, Wellcome Centre for Human Genetics; [[slides]](https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200228_JustinWhalley.pdf) 
 * 14/02/2020 - Journal Club: [*Genome-wide polygenic scores for common diseases identify individuals with risk equivalent to monogenic mutations*](https://www.nature.com/articles/s41588-018-0183-z) by **Lino Fonseca Ferreira**, Wellcome Centre for Human Genetics; [[slides]](https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200214_LinoFerreira.pdf)  
