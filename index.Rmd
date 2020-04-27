@@ -27,9 +27,10 @@ To comply with [**life saving social distancing**](https://www.nhs.uk/conditions
 
 We are meeting on Zoom. Details of the next meeting:
 
-Time: **Apr 24, 2020 12:30 PM London**  
+Time: **May 22, 2020 12:30 PM London**  
 Link: [**Zoom link**](https://zoom.us/j/7574712488?pwd=a1F5SURJQlFZV2JmQ0ZWUFYweWJKQT09)  
-**Meeting ID**: 757 471 2488 & **Password**: jc  
+**Meeting ID**: 757 471 2488
+**Password**: [contact us](mailto:kasia@well.ox.ac.uk) or, if you subscribe to the mailing list, check your inbox.
 
 ## Upcoming meetings
 
@@ -38,6 +39,7 @@ Link: [**Zoom link**](https://zoom.us/j/7574712488?pwd=a1F5SURJQlFZV2JmQ0ZWUFYwe
 <!-- Google embed ends -->
 
 ## Past meetings
+* 24/04/2020 - BMRC Training by Dr Geoffrey Ferrari, [[Oxford Big Data Institute; BMRC online documentation]](https://www.medsci.ox.ac.uk/divisional-services/support-services-1/bmrc)
 * 03/04/2020 - Special COVID-19 Journal Club: 
   * *Compartmental models in epidemiology or The emergence of a global pandemic* by **Jennifer Herrmann**, Wellcome Centre for Human Genetics, [[slides]](https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200402_JHerrmann.pdf)
   * [*The proximal orgin of SARS-CoV-2*](https://www.nature.com/articles/s41591-020-0820-9) by **Justin Whalley**, Wellcome Centre for Human Genetics, [[slides]](https://github.com/Old-Road-Journal-Club/Old-Road-Journal-Club.github.io/blob/master/slides/200402_JWhalley.pdf)
